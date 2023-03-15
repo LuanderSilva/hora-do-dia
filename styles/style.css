@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(49, 97, 185);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cabecalho {
+    color: #FFF;
+}
+
+.conteudo {
+    text-align: center;
+    background: #FFF;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.26);
+}
+
+#foto {
+    padding-top: 10px;
+}
+
+.rodape {
+    color: #FFF;
+    font-style: italic;
+}
