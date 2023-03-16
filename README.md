@@ -1,5 +1,5 @@
 <h1 align="center"> Hora do Dia </h1>
-<p align="center">Neste projeto, a página irá mostrar a hora da máquina junto com uma imagem e um fundo respectivo à manhã, tarde e noite.</p>
+<p align="center">Neste projeto, a página irá mostrar a hora da máquina junto com uma imagem e um fundo respectivo à manhã, tarde e noite. Exercício feito na aula de JavaScript - Curso Em Video</p>
 
 <div align="center">
 
